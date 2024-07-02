@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Videollamada Ejemplo</string>
+    <string name="enable_internet_connection_title">Sin conexión a Internet</string>
+    <string name="enable_internet_connection_desc">Necesitas conexión a Internet para poder usar la app :(</string>
+    <string name="chat_button">Chat</string>
+    <string name="videocall_button">Videollamada</string>
+    <string name="call_button">Llamada</string>
+    <string name="other_apps">Otras apps</string>
+    <string name="status_online">En línea</string>
+    <string name="status_writting">Escribiendo…</string>
+    <string name="call_incoming">Llamada entrante…</string>
+    <string name="add_call">Añadir llamada</string>
+    <string name="wait">Poner en espera</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="speaker">Altavoz</string>
+    <string name="mute">Silencio</string>
+    <string name="keypad">Teclado</string>
+</resources>
